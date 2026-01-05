@@ -1,0 +1,5 @@
+{
+  "name": "UI 컴포넌트",
+  "description": "React, TypeScript, Tailwind CSS로 제작된 탭, 버튼, 입력 필드 등 다양한 UI 컴포넌트를 시연하는 샘플 애플리케이션입니다. 일반적인 사용자 인터페이스 요소들을 위한 갤러리 역할을 합니다.",
+  "requestFramePermissions": []
+}
